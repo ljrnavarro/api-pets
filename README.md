@@ -155,8 +155,3 @@ config
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
-
-Luiz Navarro Junior
-
-Projeto com fins educacionais e demonstrativos.
